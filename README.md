@@ -32,8 +32,7 @@ Building beginner-friendly Data Science projects
 Practicing Python daily
 Exploring Machine Learning algorithms
 Improving problem-solving skills
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=confirm7006925492m-afk&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=confirm7006925492m-afk&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+
 🌐 Connect With Me
 LinkedIn: https://www.linkedin.com/in/musaib-khan-0370b0406?utm_source=share_via&utm_content=profile&utm_medium=member_android
 <!-- Portfolio: https://yourwebsite.com -->
